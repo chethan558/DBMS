@@ -65,7 +65,7 @@ insert into participated values("A05","KA041702","15","5000");
 select* from participated;
 
 
-update participated set damage_amount="25000" where reg_num="KA053408";
+update participated set damage_amount="26000" where reg_num="KA053408";
  commit;
  select accident_date, location from accident;
  
