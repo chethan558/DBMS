@@ -1,4 +1,4 @@
-use chethan;
+
 create database insurance;
 use insurance;
 create table person (
